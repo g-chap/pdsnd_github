@@ -3,7 +3,7 @@
 ### Date created
 **17th October 2024**
 
-### Bike Sharing Data Analysis
+## Bike Sharing Data Analysis
 
 ### Description
 A tool built in Python to analyse the use of bike sharing services in three US cities: New York City, Chicago, and Washington. The data can be filtered and visualised in various ways:
@@ -38,3 +38,6 @@ _Install the latest stable version of Python, along with the Pandas and NumPy li
 [Prompt user input - Python](https://stackoverflow.com/questions/57009331/how-to-display-user-input-after-prompt-in-python)
 
 [Bikeshare project - GitHub](https://github.com/beingjainparas/Udacity-Explore_US_Bikeshare_Data)
+
+### License
+This project is meant for education use and is not licensed for commercial use.
