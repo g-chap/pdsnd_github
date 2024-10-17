@@ -6,7 +6,7 @@
 ### Bike Sharing Data Analysis
 
 ### Description
-A tool built in Python to analyse the use of bike sharing services in three US cities: New York City, Chicago, and Washington. The data can be filtered and visualised in various ways, including:
+A tool built in Python to analyse the use of bike sharing services in three US cities: New York City, Chicago, and Washington. The data can be filtered and visualised in various ways:
 
 * Most used collection/drop-off stations.
 * Busiest travel times.
@@ -26,9 +26,9 @@ _Install the latest stable version of Python, along with the Pandas and NumPy li
 
 
 #### Sources
-[Chicago](https://www.divvybikes.com/system-data_)
+[Chicago data](https://www.divvybikes.com/system-data_)
 
-[New York City](https://www.citibikenyc.com/system-data)
+[New York City data](https://www.citibikenyc.com/system-data)
 
 [Washington](https://www.capitalbikeshare.com/system-data)
 
